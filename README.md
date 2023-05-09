@@ -1,2 +1,2 @@
 # Unsupervised-Learning
-Documentation of my exploration in supervised learning
+Documentation of my exploration in unsupervised learning
